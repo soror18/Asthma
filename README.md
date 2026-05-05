@@ -2,7 +2,7 @@
 This repository contains R scripts for global panel analysis of asthma incidence.
 
 ## Files
-- analysis.R: main model and analysis pipeline
+analysis.R: main model and analysis pipeline
 
 ## Data
 Data are not included.
